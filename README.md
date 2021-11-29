@@ -14,8 +14,8 @@
   *  You may  reach out to me directly at whoward939@gmail.com.com for any questions.
 
   
-  * You can see more of my work by searching my username: GraceKevin
-  * Or by accessing my Github [here](https://github.com/GraceKevin)
+  * You can see more of my work by searching my username: whoward2929
+  * Or by accessing my Github [here](https://github.com/whoward2929)
   # License
 
    
