@@ -34,7 +34,7 @@ function App() {
 
     <ApolloProvider client={client}>
       <BrowserRouter>
-        <>
+        
           <Navbar />
           <Switch>
             <Route exact path="/" component={SearchBooks} />
